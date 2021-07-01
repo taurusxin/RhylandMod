@@ -1,0 +1,19 @@
+item.rhylandSword.name=Rhyland Sword
+item.chromeIngot.name=Chrome Ingot
+item.rhylandAxe.name=Rhyland Axe
+item.rhylandPickaxe.name=Rhyland Pickaxe
+item.glassHelmet.name=Diving Cap
+
+tile.chromite.name=Chromite
+tile.chrome.name=Chrome
+
+itemGroup.rmod=Rhyland Tech - Rmod
+
+rhyland.sword.effects.enabled=§6§lSuper man, Chrome Ingot -2!
+rhyland.sword.effects.failed=§c§lFailed to give effects, please ensure you have enough Chrome Ingot(minimum 2)!
+
+rhyland.pickaxe.effects.enabled=§6§lSuper hercules, Chrome Ingot -2!
+rhyland.pickaxe.effects.failed=§c§lFailed to give effects, please ensure you have enough Chrome Ingot(minimum 2)!
+
+key.rmod=Rhyland Mod
+key.effects.desc=Enable Super Effects

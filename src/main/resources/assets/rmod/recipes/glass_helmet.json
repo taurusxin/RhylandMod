@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XXX",
+    "X#X",
+    "OOO"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:diamond_helmet"
+    },
+    "X": {
+      "item": "minecraft:glass"
+    },
+    "O": {
+      "item": "minecraft:diamond"
+    }
+  },
+  "result": {
+    "item": "rmod:glass_helmet"
+  }
+}

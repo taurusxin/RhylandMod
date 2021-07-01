@@ -1,0 +1,19 @@
+item.rhylandSword.name=Rhyland 之剑
+item.chromeIngot.name=铬锭
+item.rhylandAxe.name=Rhyland 之斧
+item.rhylandPickaxe.name=Rhyland 之稿
+item.glassHelmet.name=潜水帽
+
+tile.chromite.name=铬铁矿
+tile.chrome.name=铬块
+
+itemGroup.rmod=Rhyland Tech - Rmod
+
+rhyland.sword.effects.enabled=§6§l真男人能力已赋予，铬锭 - 2!
+rhyland.sword.effects.failed=§c§l给予真男人能力失败，请确保您有足够的铬锭（至少2个）!
+
+rhyland.pickaxe.effects.enabled=§6§l英国大力士能力已赋予，铬锭 - 2!
+rhyland.pickaxe.effects.failed=§c§l给予英国大力士能力失败，请确保您有足够的铬锭（至少2个）!
+
+key.rmod=Rhyland Mod
+key.effects.desc=开启超级能力
