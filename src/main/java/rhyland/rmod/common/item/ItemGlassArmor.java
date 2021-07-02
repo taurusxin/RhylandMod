@@ -21,7 +21,7 @@ public class ItemGlassArmor extends ItemArmor {
     @Override
     public void onArmorTick(World world, EntityPlayer player, ItemStack item)
     {
-        if(player.inventory.armorItemInSlot(3).getItem() == RmodItems.itemGlassHelmet)
+        if (player.getItemStackFromSlot(EntityEquipmentSlot.HEAD).getItem() == RmodItems.itemGlassHelmet)
         {
             if (!world.isRemote) {
                 player.addPotionEffect(new PotionEffect(MobEffects.WATER_BREATHING, 20, 0));
